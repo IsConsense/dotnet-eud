@@ -4,6 +4,7 @@
       {
         "files": [
             "reporting-for-desktop/**/*.{md,yml}",
+            "interface-elements-for-desktop/images/**",
             "toc.yml",
             "index.md"
           ],
@@ -17,7 +18,8 @@
         "files": [
             "favicon.ico",
             "logo_cns.png",
-            "reporting-for-desktop/images/**"
+            "reporting-for-desktop/images/**",
+            "interface-elements-for-desktop/images/**"
           ],
           "exclude": [
             "_*/**"
