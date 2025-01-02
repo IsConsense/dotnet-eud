@@ -17,5 +17,3 @@ The end user documentation is divided into the following platforms and products:
 
 * [Reporting for Desktop](reporting-for-desktop/articles/index.md)
 
-
-If you search for DevExpress developer documentation with API reference, refer to [docs.devexpress.com](https://docs.devexpress.com).
