@@ -4,7 +4,7 @@
       {
         "files": [
             "reporting-for-desktop/**/*.{md,yml}",
-            "interface-elements-for-desktop/images/**",
+            "interface-elements-for-desktop/**/*.{md,yml}",
             "toc.yml",
             "index.md"
           ],
