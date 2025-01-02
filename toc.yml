@@ -2,3 +2,6 @@ items:
 - name: Reporting for Desktop
   href: reporting-for-desktop/
   topicHref: reporting-for-desktop/articles/index.md
+- name: Interface Elements for Desktop
+  href: interface-elements-for-desktop/
+  topicHref: interface-elements-for-desktop/articles/index.md
